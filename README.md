@@ -6,12 +6,11 @@ The analysis focuses on understanding which products, locations and pricing stra
 
 The goal is to demonstrate how data analysis can be used to generate actionable insights for an online retail business.
 
-Dataset
+## Dataset
 
 The dataset contains 112,650 transactions from a Brazilian e-commerce platform.
 
 Key variables used in the analysis include:
-
 Variable	Description
 order_date	Date of purchase
 price	Order item price
@@ -27,7 +26,7 @@ The dataset includes approximately:
 
 Multiple product categories
 
-Tools Used
+## Tools Used
 
 SQL – data extraction and table joins
 
@@ -37,7 +36,7 @@ Matplotlib / Seaborn – data visualisation
 
 Jupyter Notebook – analysis environment
 
-Key Questions
+## Key Questions
 
 This analysis investigates several business questions:
 
@@ -51,7 +50,7 @@ What price ranges customers purchase most frequently?
 
 Is revenue concentrated among a small group of customers?
 
-Analysis Performed
+## Analysis Performed
 
 The project includes the following analyses:
 
@@ -73,7 +72,7 @@ Revenue heatmap by category and month
 
 Customer revenue concentration analysis
 
-Key Insights
+## Key Insights
 
 Several key patterns emerged from the analysis.
 
@@ -97,23 +96,23 @@ Seasonal Demand
 
 Sales spikes appear around Brazilian summer months and Mother's Day, indicating seasonal events significantly influence purchasing behaviour.
 
-Business Recommendations
+## Business Recommendations
 
 Based on the analysis, several strategic opportunities emerge:
 
-Prioritise marketing investment in high-revenue cities such as São Paulo and Rio de Janeiro.
+Prioritise marketing investment in high-revenue cities such as São Paulo and Rio de Janeiro
 
-Expand inventory in high-growth product categories such as Beauty & Health.
+Expand inventory in high-growth categories such as Beauty & Health
 
-Focus product offerings in the £20–£100 price range, where demand is strongest.
+Focus product offerings in the £20–£100 price range
 
-Align marketing campaigns with seasonal retail events such as Mother’s Day.
+Align marketing campaigns with seasonal retail events
 
-Invest in customer acquisition strategies, as revenue is distributed across a broad customer base.
+Invest in customer acquisition strategies
 
-Example Visualisations
+## Example Visualisations
 
-The project includes several visualisations to explore revenue patterns, including:
+The project includes visualisations such as:
 
 Revenue heatmaps
 
