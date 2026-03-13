@@ -21,7 +21,7 @@ The goal is to demonstrate how SQL and Python can be used together to generate a
 
 ## Dataset
 
-The dataset contains **112,650 transactions** from a Brazilian e-commerce platform.
+The dataset contains **112,650 order transactions** from a Brazilian e-commerce platform.
 
 ### Key variables used in the analysis include:
 
@@ -88,7 +88,7 @@ The **Beauty & Health** category demonstrates the strongest growth over time, in
 
 ### Customer Revenue Distribution
 
-Approximately **40% of customers account for around 80% of revenue**., suggesting that the business relies on a broad customer base rather than a small number of high-value buyers.
+Approximately **40% of customers account for around 80% of revenue**, suggesting that the business relies on a broad customer base rather than a small number of high-value buyers.
 
 ### Seasonal Demand
 
@@ -100,7 +100,7 @@ Based on the analysis, several strategic opportunities emerge:
 
 - Prioritise marketing investment in high-revenue cities such as **São Paulo and Rio de Janeiro**
 - Expand inventory in high-growth categories such as **Beauty & Health**
-- Focus product offerings in the **£20-£100 price range**, where demand is strongest
+- Focus product offerings in the **£20–£100 price range**, where demand is strongest
 - Align marketing campaigns with key seasonal retail events such as **Mother's Day**
 - Invest in **customer acquisition strategies**, as revenue is distributed across a broad customer base
 
