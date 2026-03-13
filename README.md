@@ -8,7 +8,25 @@ The goal is to demonstrate how data analysis can be used to generate actionable 
 
 ## Example Visualisation
 
-![Revenue Heatmap](images/revenue_heatmap.png)
+![Revenue Heatmap](revenue_heatmap.png)
+
+## Additional Visualisations
+
+### Top 10 Cities by Revenue
+
+![Top Cities by Revenue](top_cities_revenue.png)
+
+### Monthly Revenue Trend
+
+![Monthly Revenue Trend](monthly_revenue_trend.png)
+
+### Order Price Distribution
+
+![Order Price Distribution](order_price_distribution_under_500.png)
+
+### Customer Revenue Concentration
+
+![Customer Pareto](customer_revenue_pareto.png)
 
 ## Dataset
 
