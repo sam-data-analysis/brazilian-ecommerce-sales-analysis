@@ -14,19 +14,19 @@ The goal is to demonstrate how data analysis can be used to generate actionable 
 
 ### Top 10 Cities by Revenue
 
-![Top Cities by Revenue](top_cities_revenue.png)
+<img src="top_cities_revenue.png" width="700">
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue Trend](monthly_revenue_trend.png)
+<img src="monthly_revenue_trend.png" width="700">
 
 ### Order Price Distribution
 
-![Order Price Distribution](order_price_distribution_under_500.png)
+<img src="order_price_distribution_under_500.png" width="700">
 
 ### Customer Revenue Concentration
 
-![Customer Pareto](customer_revenue_pareto.png)
+<img src="customer_revenue_pareto.png" width="700">
 
 ## Dataset
 
