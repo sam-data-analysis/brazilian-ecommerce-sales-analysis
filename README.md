@@ -113,23 +113,6 @@ Based on the analysis, several strategic opportunities emerge:
 - Align marketing campaigns with key seasonal retail events such as **Mother's Day**
 - Invest in **customer acquisition strategies**, as revenue is distributed across a broad customer base
 
-## Additional Visualisations
-
-### Top 10 Cities by Revenue
-
-![Top Cities by Revenue](images/top_cities_revenue.png)
-
-### Monthly Revenue Trend
-
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
-
-### Order Price Distribution
-
-![Order Price Distribution](images/order_price_distribution_under_500.png)
-
-### Customer Revenue Concentration
-
-![Customer Pareto](images/customer_revenue_pareto.png)
 
 ## Project Structure
 
