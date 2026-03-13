@@ -1,16 +1,24 @@
 # Brazilian E-Commerce Sales Analysis
 
-This project explores transactional data from a Brazilian e-commerce platform to identify key revenue drivers, customer behaviour patterns, and strategic business insights.
+This project analyses transactional data from a Brazilian e-commerce platform to identify key revenue drivers, customer behaviour patterns, and strategic business opportunities.
 
-The analysis focuses on understanding which products, locations and pricing strategies contribute most to overall sales performance.
+The analysis focuses on product performance, geographic revenue concentration, pricing behaviour, seasonal demand, and customer revenue distribution.
 
-The goal is to demonstrate how data analysis can be used to generate actionable insights for an online retail business.
+The goal is to demonstrate how SQL and Python can be used together to generate actionable business insights for an online retail business.
 
-## Example Visualisation
+## Featured Visualisation
 
 <img src="revenue_heatmap.png" width="700">
 
-## Additional Visualisations
+## Project Highlights
+
+- Analysed **112,650 transactions** from a Brazilian e-commerce platform
+- Combined **SQL** for data extraction with **Python** for analysis and visualisation
+- Identified strong revenue concentration in **São Paulo and Rio de Janeiro**
+- Found that most purchases occur in the **£20–£100 price range**
+- Showed that **Beauty & Health** was the strongest long-term growth category
+
+## Supporting Visualisations
 
 ### Top 10 Cities by Revenue
 
@@ -81,27 +89,27 @@ The project includes the following analyses:
 
 ## Key Insights
 
-Several key patterns emerged from the analysis.
+Several important patterns emerged from the analysis.
 
 ### Revenue Concentration
 
-Sales are heavily concentrated in major metropolitan areas, particularly **São Paulo and Rio de Janeiro**, indicating these regions represent the retailer’s primary customer base.
+Sales are strongly concentrated in major metropolitan areas, particularly **São Paulo and Rio de Janeiro**, indicating that these cities form the retailer’s primary customer base.
 
 ### Pricing Behaviour
 
-Most purchases occur within the **£20-£100 price range**, suggesting the retailer primarily operates in the **low-to-mid price segment**.
+Most purchases occur within the **£20–£100 price range**, suggesting that the retailer primarily operates in the **low-to-mid price segment**.
 
 ### Category Growth
 
-The **Beauty & Health** category demonstrates strong growth over time, indicating increasing demand within this segment.
+The **Beauty & Health** category demonstrates the strongest growth over time, indicating increasing demand within this segment.
 
 ### Customer Revenue Distribution
 
-Approximately **40% of customers generate 80% of revenue**, suggesting the business relies on a broad customer base rather than a small number of high-value buyers.
+Approximately **40% of customers generate 80% of revenue**, suggesting that the business relies on a broad customer base rather than a small number of high-value buyers.
 
 ### Seasonal Demand
 
-Sales spikes appear around **Brazilian summer months and Mother's Day**, indicating seasonal events significantly influence purchasing behaviour.
+Sales peaks appear around **Brazilian summer months and Mother’s Day**, indicating that seasonal events significantly influence purchasing behaviour.
 
 ## Business Recommendations
 
@@ -113,18 +121,3 @@ Based on the analysis, several strategic opportunities emerge:
 - Align marketing campaigns with key seasonal retail events such as **Mother's Day**
 - Invest in **customer acquisition strategies**, as revenue is distributed across a broad customer base
 
-
-## Project Structure
-
-```text
-brazilian-ecommerce-sales-analysis/
-│
-├── ecommerce_sales_analysis.ipynb
-├── README.md
-├── analysis_table.csv
-└── images/
-    ├── revenue_heatmap.png
-    ├── top_cities_revenue.png
-    ├── monthly_revenue_trend.png
-    ├── order_price_distribution_under_500.png
-    └── customer_revenue_pareto.png
