@@ -58,10 +58,10 @@ The dataset includes approximately:
 
 ## Tools Used
 
-- **SQL** - data extraction and table joins  
-- **Python (Pandas)** - data cleaning and analysis  
-- **Matplotlib / Seaborn** - data visualisation  
-- **Jupyter Notebook** - analysis environment  
+• SQL – data extraction and table joins  
+• Python (Pandas) – data cleaning and analysis  
+• Matplotlib / Seaborn – data visualisation  
+• Jupyter Notebook – analysis environment
 
 ## Key Questions
 
@@ -105,7 +105,7 @@ The **Beauty & Health** category demonstrates the strongest growth over time, in
 
 ### Customer Revenue Distribution
 
-Approximately **40% of customers generate 80% of revenue**, suggesting that the business relies on a broad customer base rather than a small number of high-value buyers.
+Approximately **40% of customers account for around 80% of revenue**., suggesting that the business relies on a broad customer base rather than a small number of high-value buyers.
 
 ### Seasonal Demand
 
