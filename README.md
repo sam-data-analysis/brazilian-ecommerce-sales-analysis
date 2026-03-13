@@ -8,7 +8,7 @@ The goal is to demonstrate how data analysis can be used to generate actionable 
 
 ## Example Visualisation
 
-![Revenue Heatmap](revenue_heatmap.png)
+<img src="revenue_heatmap.png" width="700">
 
 ## Additional Visualisations
 
