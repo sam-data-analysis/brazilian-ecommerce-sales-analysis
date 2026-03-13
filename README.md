@@ -12,29 +12,12 @@ The goal is to demonstrate how SQL and Python can be used together to generate a
 
 ## Project Highlights
 
-- Analysed **112,650 transactions** from a Brazilian e-commerce platform
-- Combined **SQL** for data extraction with **Python** for analysis and visualisation
-- Identified strong revenue concentration in **São Paulo and Rio de Janeiro**
-- Found that most purchases occur in the **£20–£100 price range**
-- Showed that **Beauty & Health** was the strongest long-term growth category
+• Analysed **112,650 transactions** from a Brazilian e-commerce platform  
+• Identified strong revenue concentration in **São Paulo and Rio de Janeiro**  
+• Found most purchases occur in the **£20-£100 price range**  
+• Discovered **Beauty & Health** as the fastest growing category  
+• Performed **Pareto analysis** on customer revenue distribution
 
-## Supporting Visualisations
-
-### Top 10 Cities by Revenue
-
-<img src="top_cities_revenue.png" width="700">
-
-### Monthly Revenue Trend
-
-<img src="monthly_revenue_trend.png" width="700">
-
-### Order Price Distribution
-
-<img src="order_price_distribution_under_500.png" width="700">
-
-### Customer Revenue Concentration
-
-<img src="customer_revenue_pareto.png" width="700">
 
 ## Dataset
 
@@ -121,3 +104,20 @@ Based on the analysis, several strategic opportunities emerge:
 - Align marketing campaigns with key seasonal retail events such as **Mother's Day**
 - Invest in **customer acquisition strategies**, as revenue is distributed across a broad customer base
 
+## Supporting Visualisations
+
+### Top 10 Cities by Revenue
+
+<img src="top_cities_revenue.png" width="700">
+
+### Monthly Revenue Trend
+
+<img src="monthly_revenue_trend.png" width="700">
+
+### Order Price Distribution
+
+<img src="order_price_distribution_under_500.png" width="700">
+
+### Customer Revenue Concentration
+
+<img src="customer_revenue_pareto.png" width="700">
